@@ -1,0 +1,4 @@
+[core]
+    remote = winemart
+['remote "winemart"']
+    url = s3://sayi-mlops-dvc
